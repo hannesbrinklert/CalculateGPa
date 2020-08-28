@@ -23,6 +23,9 @@ class GradeForm extends React.Component {
         if (this.state.course.length === 0) {
             alert("Please write a course name")
         }
+        else if (this.state.points.length === 0) {
+            alert("Please write how many HP")
+        }
         else if (parseInt(this.state.points) <= 0) {
             alert("HP must be lager than 0")
         } else {
@@ -47,7 +50,7 @@ class GradeForm extends React.Component {
                     <Col md={8}>
                         <InputGroup>
                             <Form.Control type="text" value={this.state.course} onChange={(event) => this.setState({ course: event.target.value })} placeholder="Course" />
-                            <Form.Control type="number" value={this.state.points} onChange={(event) => this.setState({ points: event.target.value })} placeholder="HP" />
+                            <Form.Control type="number" pattern="[0-9]*" value={this.state.points} onChange={(event) => this.setState({ points: event.target.value })} placeholder="HP" />
                             <Form.Control as="select" name="selectGrade" onChange={(event) => this.setState({ grade: event.target.value })} value={this.state.grade}>
                                 <option value="U">U</option>
                                 <option value="3">3</option>
