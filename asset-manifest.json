@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CalculateGPa/static/css/main.36a2efdc.chunk.css",
+    "main.js": "/CalculateGPa/static/js/main.8233953b.chunk.js",
+    "main.js.map": "/CalculateGPa/static/js/main.8233953b.chunk.js.map",
+    "runtime-main.js": "/CalculateGPa/static/js/runtime-main.37bac062.js",
+    "runtime-main.js.map": "/CalculateGPa/static/js/runtime-main.37bac062.js.map",
+    "static/css/2.11829350.chunk.css": "/CalculateGPa/static/css/2.11829350.chunk.css",
+    "static/js/2.7e9bf640.chunk.js": "/CalculateGPa/static/js/2.7e9bf640.chunk.js",
+    "static/js/2.7e9bf640.chunk.js.map": "/CalculateGPa/static/js/2.7e9bf640.chunk.js.map",
+    "index.html": "/CalculateGPa/index.html",
+    "precache-manifest.05d10c79dc171558a13b50412993c3fa.js": "/CalculateGPa/precache-manifest.05d10c79dc171558a13b50412993c3fa.js",
+    "service-worker.js": "/CalculateGPa/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/CalculateGPa/static/css/2.11829350.chunk.css.map",
+    "static/css/main.36a2efdc.chunk.css.map": "/CalculateGPa/static/css/main.36a2efdc.chunk.css.map",
+    "static/js/2.7e9bf640.chunk.js.LICENSE.txt": "/CalculateGPa/static/js/2.7e9bf640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37bac062.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.7e9bf640.chunk.js",
+    "static/css/main.36a2efdc.chunk.css",
+    "static/js/main.8233953b.chunk.js"
+  ]
+}
