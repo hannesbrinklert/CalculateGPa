@@ -3,8 +3,7 @@ This is my first simple project in React and with Bootstrap. This website will h
 
 __Please checkout the live version of CalculateGPa__ [here](https://hannesbrinklert.github.io/CalculateGPa/)
 
-### How to run the code 🖥️
-<hr>
+## How to run the code 🖥️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -20,6 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Technologies 🖱️
-<hr>
+## Technologies 🖱️
+
 React and Bootstrap
