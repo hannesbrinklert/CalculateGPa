@@ -1,7 +1,7 @@
 # CalculateGPa 🏫
 This is my first simple project in React and with Bootstrap. This website will help you calculate your GPa. 
 
-__Please checkout the live version of CalculateGPa__ [here](https://hannesbrinklert.github.io/CalculateGPa/)
+__Please checkout the live version of CalculateGPa here:__ https://hannesbrinklert.github.io/CalculateGPa/
 
 ## How to run the code 🖥️
 
